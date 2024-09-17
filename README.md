@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://gmtsoftware.com)
 
 <h1 align="center">Hi 👋, I'm Asogbon Razaq Adenuga</h1>
-<h3 align="center">I'm a frontend and backend Javascript/Machine Learning and Datascience ethusiast</h3>
+<h3 align="center">I'm a frontend and backend Javascript</h3>
 <img align="right" width="500" alt="gmtsoftware" src="https://github.com/nuga-world/nuga-world/blob/main/lg.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpcodevo&label=Profile%20views&color=0e75b6&style=flat" alt="wpcodevo" /> </p>
